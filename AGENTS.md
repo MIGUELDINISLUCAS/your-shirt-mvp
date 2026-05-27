@@ -52,7 +52,7 @@ Then they:
 - Shopify
 - Vercel
 - Cloudflare R2 or S3
-- AI image provider: FLUX
+- AI image provider: ChatGPT
 - Printful/Gelato integration later
 
 ## MVP Scope
